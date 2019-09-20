@@ -1,4 +1,8 @@
 # rawcopy-docker
+http://rawcopy.org
+
+https://hub.docker.com/r/rawcopy/rawcopy
+
 
 Run Rawcopy with the following command:
 ``` 
